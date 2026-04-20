@@ -1,0 +1,3 @@
+Backup helps in data recovery.
+Important files should always be saved.
+This file is part of backup system.
